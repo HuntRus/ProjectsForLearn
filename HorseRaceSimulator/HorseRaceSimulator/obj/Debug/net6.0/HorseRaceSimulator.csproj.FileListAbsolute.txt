@@ -1,0 +1,14 @@
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\bin\Debug\net6.0\HorseRaceSimulator.exe
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\bin\Debug\net6.0\HorseRaceSimulator.deps.json
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\bin\Debug\net6.0\HorseRaceSimulator.runtimeconfig.json
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\bin\Debug\net6.0\HorseRaceSimulator.dll
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\bin\Debug\net6.0\HorseRaceSimulator.pdb
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\obj\Debug\net6.0\HorseRaceSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\obj\Debug\net6.0\HorseRaceSimulator.AssemblyInfoInputs.cache
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\obj\Debug\net6.0\HorseRaceSimulator.AssemblyInfo.cs
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\obj\Debug\net6.0\HorseRaceSimulator.csproj.CoreCompileInputs.cache
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\obj\Debug\net6.0\HorseRaceSimulator.dll
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\obj\Debug\net6.0\refint\HorseRaceSimulator.dll
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\obj\Debug\net6.0\HorseRaceSimulator.pdb
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\obj\Debug\net6.0\HorseRaceSimulator.genruntimeconfig.cache
+C:\Code\ProjectsForLearn\HorseRaceSimulator\HorseRaceSimulator\obj\Debug\net6.0\ref\HorseRaceSimulator.dll
